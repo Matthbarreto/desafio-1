@@ -2,11 +2,12 @@
 
 # Projeto acadêmico landpage de engenharia
 
-Bem-vindo(a) ao repositório do projeto acadêmico para a sua empresa de engenharia! Este arquivo README contém informações essenciais sobre o projeto, suas funcionalidades e como utilizá-lo para criar uma presença online eficaz para o seu negócio.
+Bem-vindo(a) ao repositório do projeto acadêmico para empresa de engenharia! Este arquivo README contém informações essenciais sobre o projeto, suas funcionalidades e como utilizá-lo.
+[clique aqui para acessar o site](https://gregarious-snickerdoodle-7b83af.netlify.app/).
 
 ## Como usar
 
-Adicione seu dados no formulário depois aperte em fale conosco. Os dados cadastrados serão direcionados para uma planilha do Google Sheet [clique aqui para acessar](https://docs.google.com/spreadsheets/d/1cYvlCnrLdavu1jPeeq0uI3DfLA6-Dsh0k6AE3FCCN2g/edit?usp=sharing).
+Adicione seus dados no formulário depois aperte em fale conosco. Os dados cadastrados serão direcionados para uma planilha do Google Sheet [clique aqui para acessar](https://docs.google.com/spreadsheets/d/1cYvlCnrLdavu1jPeeq0uI3DfLA6-Dsh0k6AE3FCCN2g/edit?usp=sharing).
 
 ## Descrição do Projeto
 

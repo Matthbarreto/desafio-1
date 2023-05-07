@@ -1,0 +1,10 @@
+@media (max-width: 700px) {
+    .faixa .linha {
+        flex-direction: column !important;
+        gap: 20px !important;
+    }
+    .sobre .row {
+        flex-direction: column-reverse !important;
+        gap: 20px;
+    }
+}

@@ -1,0 +1,104 @@
+
+.infobanner {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    background-color: #303030;
+    color: #fff;
+    font-family: 'Inter';
+}
+
+.infobanner h1 {
+    font-weight: 700;
+}
+
+.faixa {
+    padding: 3rem 20px;
+    align-items: center;
+    background-color: #F9F9F9;
+    font-family: 'Inter';
+}
+
+.faixa .linha {
+    display: flex;
+    justify-content: space-between;
+}
+
+.faixa .linha .cada h1 {
+    margin: 0;
+}
+
+.sobre {
+    padding: 3rem 20px;
+    font-family: 'Inter';
+}
+
+.sobre h1 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.sobre .col-md-7 {
+    align-self: center;
+}
+
+.sobre img {
+    width: 100%;
+    display: block;
+    margin: auto;
+    max-width: 500px;
+}
+
+.formulario {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    background-color: #303030;
+    color: #fff;
+    font-family: 'Inter';
+}
+
+.formulario .meio {
+    margin: auto;
+}
+
+.formulario h1 {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.formulario form input {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    display: block;
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto 25px;
+    transition: .2s;
+}
+
+.formulario form input:focus {
+    outline: none;
+    transform: scale(1.1);
+}
+
+.formulario form button {
+    background: #C07212;
+    color: #fff;
+    padding: 10px 30px;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    width: fit-content;
+    margin: 30px auto;
+    transition: .1s;
+}
+
+.formulario form button:hover {
+    background: #f1b163;
+}
